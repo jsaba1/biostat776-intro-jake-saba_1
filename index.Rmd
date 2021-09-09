@@ -1,0 +1,31 @@
+---
+title: "Hi, my name is Jake Saba..."
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Who I am:** 3rd year BCMB grad student in Rachel Green's Lab in the department of Molecular Biology and Genetics
+
+**Undergrad:** UVA
+
+**Current research interest:** studying protein synthesis and ribosome quality control in multiple myeloma, a cancer of differentiated B cells
+
+**Stats/programming experience:** Not a lot - I have taken some Python and R courses through Coursera and have implemented Python/R/Command line tools for data analysis in my research
+
+**What I want to get out of this course:** experience writing programs in R and leveraging R packages for data analysis and visualization
+
+
+# 5 fun facts
+1) I hate scary movies
+2) I enjoy bouldering in my free time (usually indoors at EarthTreks) 
+3) I have never had a Facebook account
+4) I make my own ice cream
+5) Ocean breeze is my favorite candle scent
+
+# a funny/interesting news story that I saw a few weeks back:
+[webpage](https://www.newsweek.com/italian-artist-sells-invisible-sculpture-more-18000-1596608?utm_source=N2K%20-%206.3.21%20(Thursday)%20-%20LinkedIn%20Learning&utm_medium=email&utm_campaign=6673)
+
+I especially like the line stating that the *"sculpture is immaterial, meaning that the sculpture does not actually exist."*
